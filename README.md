@@ -1,4 +1,4 @@
-# SNOMED (Reupload)
+# SNOMED
 
 Project description:
 
